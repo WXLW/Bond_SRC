@@ -1,5 +1,7 @@
-streamlit==0.56.0
+pycaret
+joblib
+streamlit
 
-pandas==0.25.1
+pandas
 
-numpy==1.16.5
+numpy
