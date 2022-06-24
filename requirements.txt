@@ -1,7 +1,7 @@
 pycaret==2.0
-joblib
-streamlit
+joblib==1.0.1
+streamlit==0.88.0
 
-pandas
+pandas==1.2.4
 
-numpy
+numpy==1.19.5
