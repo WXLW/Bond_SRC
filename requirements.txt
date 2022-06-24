@@ -1,2 +1,8 @@
 pycaret==2.1
+joblib
+streamlit
+
+pandas
+
+numpy
 
