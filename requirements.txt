@@ -1,4 +1,4 @@
 pycaret==2.0
-pandas==0.25.1
-numpy==1.16.5
+pandas
+numpy
 streamlit==0.56.0
