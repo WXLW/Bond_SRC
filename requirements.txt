@@ -1,8 +1,2 @@
 pycaret==2.0
-joblib
 streamlit
-
-pandas
-
-numpy
-
